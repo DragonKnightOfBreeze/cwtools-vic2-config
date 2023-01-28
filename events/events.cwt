@@ -35,7 +35,9 @@ event = {
 		}
 		desc = localisation
 	}
+	## cardinality = 1..inf
 	picture = scalar #todo: until such a time as I know how to check this
+	## cardinality = 1..inf
 	picture = {
 		trigger = {
 			alias_name[trigger] = alias_match_left[trigger]
