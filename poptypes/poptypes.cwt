@@ -12,6 +12,7 @@ types = {
 poptype = {
     sprite = int
 
+    ## color_type = rgb
     color = {
         ## cardinality = 3..3
         int[0..255]

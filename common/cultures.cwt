@@ -30,10 +30,11 @@ culture_group = {
 	
 	## cardinality = 1..inf
 	<culture> = {
-       color = {
-                ## cardinality = 3..3
-                int[0..255]
-        }
+		## color_type = rgb
+		color = {
+			## cardinality = 3..3
+			int[0..255]
+		}
         
         ## cardinality = 0..1
         first_names = {

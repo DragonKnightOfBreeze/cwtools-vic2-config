@@ -1,3 +1,4 @@
+## color_type = rgb
 ## cardinality = 1..inf
 color = {
 	## cardinality = 3..3

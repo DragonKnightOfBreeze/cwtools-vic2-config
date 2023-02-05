@@ -46,6 +46,7 @@ country_color_file = {
 country_file = {
 	graphical_culture = enum[graphical_cultures]
 
+	## color_type = rgb
 	color = {
 		## cardinality = 3..3
 		int[0..255]
