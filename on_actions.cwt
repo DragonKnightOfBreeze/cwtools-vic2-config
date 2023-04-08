@@ -1,36 +1,36 @@
 on_actions = {
 	## replace_scopes = { this = country root = country }
-	on_yearly_pulse = country
+	on_yearly_pulse = country_event
 	## replace_scopes = { this = country root = country }
-	on_quarterly_pulse = country
+	on_quarterly_pulse = country_event
 	## replace_scopes = { this = country root = country }
-	on_battle_won = country
+	on_battle_won = country_event
 	## replace_scopes = { this = country root = country }
-	on_battle_lost = country
+	on_battle_lost = country_event
 	## replace_scopes = { this = country root = country }
-	on_surrender = country
+	on_surrender = country_event
 	## replace_scopes = { this = country root = country }
-	on_new_great_nation = country
+	on_new_great_nation = country_event
 	## replace_scopes = { this = country root = country }
-	on_lost_great_nation = country
+	on_lost_great_nation = country_event
 	## replace_scopes = { this = country root = country }
-	on_election_tick = country
+	on_election_tick = country_event
 	## replace_scopes = { this = country root = country }
-	on_colony_to_state = country
+	on_colony_to_state = country_event
 	## replace_scopes = { this = country root = country }
-	on_state_conquest = country
+	on_state_conquest = country_event
 	## replace_scopes = { this = country root = country }
-	on_colony_to_state_free_slaves = country
+	on_colony_to_state_free_slaves = country_event
 	## replace_scopes = { this = country root = country }
-	on_debtor_default = country
+	on_debtor_default = country_event
 	## replace_scopes = { this = country root = country }
-	on_debtor_default_small = country
+	on_debtor_default_small = country_event
 	## replace_scopes = { this = country root = country }
-	on_debtor_default_second = country
+	on_debtor_default_second = country_event
 	## replace_scopes = { this = country root = country }
-	on_civilize = country
+	on_civilize = country_event
 	## replace_scopes = { this = country root = country }
-	on_my_factories_nationalized = country
+	on_my_factories_nationalized = country_event
 	## replace_scopes = { this = country root = country }
-	on_crisis_declare_interest = country
+	on_crisis_declare_interest = country_event
 }

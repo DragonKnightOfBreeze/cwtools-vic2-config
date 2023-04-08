@@ -1,25 +1,25 @@
-
 types = {
 	type[event] = {
 		name_field = "id"
-
 		path = "game/events"
+		file_extension = .txt
 
-		## type_key_filter = country_event
-		## push_scope = country
-		subtype[country] = {
-		}
-		## type_key_filter = province_event
-		## push_scope = province
-		subtype[province] = {
-		}
-		subtype[mean_time_to_happen] = {
-			mean_time_to_happen = {
-			}
-		}
 		subtype[triggered] = {
 			is_triggered_only = yes
 		}
+		subtype[major] = {
+			major = yes
+		}
+		subtype[mean_time_to_happen] = {
+			mean_time_to_happen = {}
+		}
+
+		## type_key_filter = country_event
+		## push_scope = country
+		subtype[country] = {}
+		## type_key_filter = province_event
+		## push_scope = province
+		subtype[province] = {}
 	}
 }
 
@@ -67,7 +67,6 @@ event = {
 
 	## cardinality = 0..1
 	fire_only_once = bool
-
 
 	subtype[!triggered] = {
 		mean_time_to_happen = {
@@ -119,5 +118,4 @@ event = {
 		}
 
 	}
-
 }
