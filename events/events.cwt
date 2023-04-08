@@ -16,10 +16,10 @@ types = {
 
 		## type_key_filter = country_event
 		## push_scope = country
-		subtype[country] = {}
+		subtype[country_event] = {}
 		## type_key_filter = province_event
 		## push_scope = province
-		subtype[province] = {}
+		subtype[province_event] = {}
 	}
 }
 
