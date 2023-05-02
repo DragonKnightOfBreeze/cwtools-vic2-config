@@ -226,13 +226,13 @@ alias[effect:clr_global_flag] = value[global_flag]
 #TODO <event_id> as argumnet
 ## scope = country
 alias[effect:country_event] = {
-	id = <event.country_event>
+	id = <event.country>
 	## cardinality = 0..1
 	days = int
 }
 ## scope = province
 alias[effect:province_event] = {
-	id = <event.province_event>
+	id = <event.province>
 	## cardinality = 0..1
 	days = int
 }

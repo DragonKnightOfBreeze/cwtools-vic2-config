@@ -14,12 +14,14 @@ types = {
 			mean_time_to_happen = {}
 		}
 
+		## group = event_type
 		## type_key_filter = country_event
 		## push_scope = country
-		subtype[country_event] = {}
+		subtype[country] = {}
+		## group = event_type
 		## type_key_filter = province_event
 		## push_scope = province
-		subtype[province_event] = {}
+		subtype[province] = {}
 	}
 }
 
