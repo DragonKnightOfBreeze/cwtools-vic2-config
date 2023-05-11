@@ -15,6 +15,10 @@ types = {
 		}
 
 		## group = event_type
+		## type_key_filter = event
+		## push_scope = any
+		subtype[scopeless] = {}
+		## group = event_type
 		## type_key_filter = country_event
 		## push_scope = country
 		subtype[country] = {}
