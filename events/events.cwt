@@ -26,6 +26,19 @@ types = {
 		## type_key_filter = province_event
 		## push_scope = province
 		subtype[province] = {}
+
+		localisation = {
+			subtype[!hidden] = {
+				title = title
+				desc = desc
+			}
+		}
+		images = {
+			subtype[!hidden] = {
+				## primary
+				picture = picture # <sprite>, can be triggered or/and multiple
+			}
+		}
 	}
 }
 
