@@ -6,7 +6,6 @@ types = {
 	type[invention] = {
 		path = "game/inventions"
 		localisation = {
-			## required
 			name = "$"
 		}
 	}

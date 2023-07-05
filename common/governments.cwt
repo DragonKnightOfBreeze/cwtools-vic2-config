@@ -3,7 +3,6 @@ types = {
 		path = "game/common"
 		path_file = "governments.txt"
 		localisation = {
-			## required
 			name = "$"
 		}
 	}

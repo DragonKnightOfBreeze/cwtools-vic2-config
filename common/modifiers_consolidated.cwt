@@ -11,7 +11,7 @@ types = {
 		localisation = {
 			subtype[not_flag] = {
 				name = "$"
-				description = "desc_$"
+				desc = "desc_$"
 			}
 		}
 	}

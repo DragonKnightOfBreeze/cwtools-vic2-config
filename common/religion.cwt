@@ -3,7 +3,6 @@ types = {
 		path = "game/common"
 		path_file = "religion.cwt"
 		localisation = {
-			## required
 			name = "$"
 		}
 	}
@@ -12,7 +11,6 @@ types = {
 		path_file = "religion.cwt"
 		skip_root_key = any
 		localisation = {
-			## required
 			name = "$"
 			## optional
 			desc = "$_religion_desc"

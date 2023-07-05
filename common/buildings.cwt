@@ -1,11 +1,7 @@
-
 types = {
 	type[building] = {
 		path = "game/common"
 		path_file = "buildings.txt"
-		localisation = {
-			name = "$"
-		}
 		subtype[fort] = {
 			type = fort 
 		}
@@ -18,9 +14,11 @@ types = {
 		subtype[railroad] = {
 			type = railroad 
 		}
+		localisation = {
+			name = "$"
+		}
 	}
 }
-
 
 building = {
 	subtype[factory] = {

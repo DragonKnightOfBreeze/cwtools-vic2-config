@@ -3,7 +3,6 @@ types = {
 		path = "game/common"
 		path_file = "ideologies.txt"
 		localisation = {
-			## required
 			name = "$"
 		}
 	}
@@ -13,7 +12,6 @@ types = {
 		path_file = "ideologies.txt"
 		skip_root_key = any
 		localisation = {
-			## required
 			name = "$"
 		}
 	}

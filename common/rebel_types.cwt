@@ -3,10 +3,8 @@ types = {
 		path = "game/common"
 		path_file = "rebel_types.txt"
 		localisation = {
-			## required
 			name = "$"
-			## required
-			description = "$_desc"
+			desc = "$_desc"
 		}
 	}
 }

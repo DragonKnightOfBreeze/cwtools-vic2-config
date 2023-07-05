@@ -4,10 +4,8 @@ types = {
 		path = "game/decisions"
 		skip_root_key = political_decisions
 		localisation = {
-			## required
 			## replace_scope = { root = country this = country }
 			name = "$_title"
-			## required
 			## replace_scope = { root = country this = country }
 			desc = "$_desc"
 		}

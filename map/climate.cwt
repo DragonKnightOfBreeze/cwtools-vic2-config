@@ -3,7 +3,7 @@ types = {
 		path = "game/map"
 		path_file = "climate.txt"
 		localisation = {
-			type = "$"
+			name = "$"
 		}
 	}
 }

@@ -4,7 +4,7 @@ types = {
 		path_file = "terrain.txt"
 		skip_root_key = categories
 		localisation = {
-			type = "$"
+			name = "$"
 		}
 	}
 }

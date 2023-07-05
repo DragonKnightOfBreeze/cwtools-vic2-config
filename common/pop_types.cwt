@@ -21,7 +21,6 @@ types = {
 	type[parliament_issue] = {
 		path = "game/common/parliament_issues"
 		localisation = {
-			## required
 			name = "$"
 		}
 	}
