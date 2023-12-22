@@ -7,11 +7,11 @@ types = {
 		subtype[triggered] = {
 			is_triggered_only = yes
 		}
-		subtype[major] = {
-			major = yes
-		}
 		subtype[mean_time_to_happen] = {
 			mean_time_to_happen = {}
+		}
+		subtype[major] = {
+			major = yes
 		}
 
 		## group = event_type

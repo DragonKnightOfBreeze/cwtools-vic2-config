@@ -1,53 +1,53 @@
 on_actions = {
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_yearly_pulse = {}
+	on_yearly_pulse
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_quarterly_pulse = {}
+	on_quarterly_pulse
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_battle_won = {}
+	on_battle_won
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_battle_lost = {}
+	on_battle_lost
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_surrender = {}
+	on_surrender
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_new_great_nation = {}
+	on_new_great_nation
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_lost_great_nation = {}
+	on_lost_great_nation
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_election_tick = {}
+	on_election_tick
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_colony_to_state = {}
+	on_colony_to_state
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_state_conquest = {}
+	on_state_conquest
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_colony_to_state_free_slaves = {}
+	on_colony_to_state_free_slaves
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_debtor_default = {}
+	on_debtor_default
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_debtor_default_small = {}
+	on_debtor_default_small
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_debtor_default_second = {}
+	on_debtor_default_second
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_civilize = {}
+	on_civilize
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_my_factories_nationalized = {}
+	on_my_factories_nationalized
 	## replace_scopes = { this = country root = country }
 	## event_type = country
-	on_crisis_declare_interest = {}
+	on_crisis_declare_interest
 }
