@@ -4,12 +4,14 @@ types = {
 		path = "game/events"
 		file_extension = .txt
 
+        ## group = event_attribute
 		subtype[triggered] = {
 			is_triggered_only = yes
 		}
 		subtype[mean_time_to_happen] = {
 			mean_time_to_happen = {}
 		}
+        ## group = event_attribute
 		subtype[major] = {
 			major = yes
 		}
