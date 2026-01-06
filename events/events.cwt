@@ -2,7 +2,7 @@ types = {
 	type[event] = {
 		name_field = "id"
 		path = "game/events"
-		file_extension = .txt
+		path_extension = .txt
 
         ## group = event_attribute
 		subtype[triggered] = {
